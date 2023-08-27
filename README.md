@@ -12,7 +12,6 @@ This project is a simple product landing page created using HTML and CSS. It sho
 - [Pricing](#pricing)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
